@@ -37,6 +37,18 @@ class AMayusculas(LectorDecorador):
     def leer(self) -> str:
         texto = super().leer()
         return texto.upper()
+    
+# Decorador 3: Para limpiar espacios internos
+class NormalizarEspacios(LectorDecorador):
+    def leer(self) -> str:
+        texto = super().leer()
+        return " ".join(texto.split())
+    
+# Decorador 4: convierte a mayúsculas
+class AMinusculas(LectorDecorador):
+    def leer(self) -> str:
+        texto = super().leer()
+        return texto.lower()
 
 # Uso: composición dinámica por apilamiento
 if __name__ == "__main__":
