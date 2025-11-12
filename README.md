@@ -8,6 +8,7 @@ Taller de implementación de **Patrones de Diseño Creacionales** para la gesti�
 Taller práctico de **Patrones de Diseño Creacionales**
 
 **Mateo Rendon**
+
 **Samuel Ibañez**
 
 ---
@@ -90,7 +91,7 @@ patrones-creacionales/
 ├── prototype.py           # Patrón Prototype + Clases base
 ├── factory.py            # Patrón Factory Method
 ├── abstract_factory.py   # Patrón Abstract Factory
-├── main.py              # Demostración completa (opcional)
+├── main.py              # Demostración completa
 └── README.md           # Esta documentación
 ```
 
