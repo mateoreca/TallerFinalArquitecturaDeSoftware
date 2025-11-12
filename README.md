@@ -5,11 +5,11 @@ Taller de implementación de **Patrones de Diseño Creacionales** para la gesti�
 ---
 ##  Autores
 
-Taller práctico de **Patrones de Diseño Creacionales**
+Taller práctico de Patrones de Diseño Creacionales
 
-**Mateo Rendon**
+### Mateo Rendon
 
-**Samuel Ibañez**
+### Samuel Ibañez
 
 ---
 
