@@ -152,9 +152,9 @@ def crear_familia_completa(factory):
     return computadora, telefono, tableta
 
 
-
+"""
 if __name__ == "__main__":
-    print("\n=== Abstract Factory Pattern ===")
+    print("\nAbstract Factory Pattern")
     
     # Crear línea Premium
     factory_premium = LineaPremiumFactory()
@@ -167,3 +167,4 @@ if __name__ == "__main__":
     # Crear línea Económica
     factory_economica = LineaEconomicaFactory()
     productos_economica = crear_familia_completa(factory_economica)
+"""
